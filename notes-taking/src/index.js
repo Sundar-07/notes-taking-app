@@ -9,13 +9,13 @@ const firebase = require('firebase');
 
   // Initialize Firebase
   firebase.initializeApp( {
-    apiKey: "AIzaSyDLHn6EQR2TXkUoSeT6eTNJXUvjnDirfbI",
-    authDomain: "notes-taking-d5350.firebaseapp.com",
-    databaseURL: "https://notes-taking-d5350.firebaseio.com",
-    projectId: "notes-taking-d5350",
-    storageBucket: "notes-taking-d5350.appspot.com",
-    messagingSenderId: "995647022690",
-    appId: "1:995647022690:web:b08e3bdba0bd7bab32933b"
+    apiKey: xxxxxxxxxxxxxxxxx,
+    authDomain: xxxxxxxxxxxxxxxxx,
+    databaseURL: xxxxxxxxxxxxxxxxx,
+    projectId: xxxxxxxxxxxxxxxxx,
+    storageBucket: xxxxxxxxxxxxxxxxx,
+    messagingSenderId:xxxxxxxxxxxxxxxxx,
+    appId: xxxxxxxxxxxxxxxxx
   }
   );
 
